@@ -3,3 +3,5 @@
 2.run 'maven clean'
 4.Then run 'maven install'
 5.Once the dependency has been installed right click on quantinstiTest.java and run as testNG runner.
+////////////////////////////////////////////////////////////////////////
+JavaProgram.java is the 3rd test.
