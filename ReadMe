@@ -1,4 +1,4 @@
 1.Download project to local system.
-2.Download chrome driver compatibility with your chrome browser version and change the path in System.setproperty('ChromeDriverPath')
+2.Download chrome driver compatibility with your chrome browser version and change the path in System.setproperty('ChromeDriverPath') in the code.
 2.run 'maven clean'
 4.Then run 'maven install'
