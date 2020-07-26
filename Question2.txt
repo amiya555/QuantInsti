@@ -11,7 +11,7 @@ else Fail Go to last S5 break
 5.Test S3 with end point /start and form param then fetch response
  if Successful go second loop S4
  else Fail Go to last S5 break 
-5.Test S4 with end point /start and form param then fetch response
+6.Test S4 with end point /start and form param then fetch response
  if Successful go second loop S5
  else Fail Go to last S5 break  
  
