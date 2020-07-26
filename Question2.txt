@@ -1,0 +1,17 @@
+1.Use looping concept to loop from s0 to s5
+2.First test SO api with endpoint /start and form param then fetch response.
+if Successful go second loop S1
+else Fail Go to last S5 break
+3.Test S1 with end point /start and form param then fetch response
+ if Successful go second loop S2
+ else Fail Go to last S5 break
+4.Test S2 with end point /start and form param then fetch response
+ if Successful go second loop S3
+ else Fail Go to last S5 break
+5.Test S3 with end point /start and form param then fetch response
+ if Successful go second loop S4
+ else Fail Go to last S5 break 
+5.Test S4 with end point /start and form param then fetch response
+ if Successful go second loop S5
+ else Fail Go to last S5 break  
+ 
