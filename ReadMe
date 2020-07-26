@@ -1,4 +1,5 @@
 1.Download project to local system.
-2.Download chrome driver compatibility with your chrome browser version and change the path in System.setproperty('ChromeDriverPath') in the code.
+2.Download chrome driver compatibility with your chrome browser version and change the path in System.setproperty('ChromeDriverPath') in the code(line 87) in quantinstiTest.java file.
 2.run 'maven clean'
 4.Then run 'maven install'
+5.Once the dependency has been installed right click on quantinstiTest.java and run as testNG runner.
